@@ -1,0 +1,7 @@
+Colores:
+negro: 33,33,33 panel lateral
+blanco: 240,240,240
+
+
+
+Tamaño de ventana horizontal 250 max 84
